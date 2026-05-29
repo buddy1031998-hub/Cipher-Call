@@ -1,0 +1,6 @@
+{
+  "name": "CipherCall",
+  "description": "An end-to-end encrypted video calling application with secure RSA/DH key exchanges, live stream diagnostics, transit-level ciphertext logs, and high-fidelity call controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
